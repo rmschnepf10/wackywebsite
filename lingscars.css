@@ -1,0 +1,45 @@
+h1{
+  font-size: 100px;
+  color: purple;
+  font-family: cursive;
+}
+
+h1:hover{
+  background-color: yellow
+}
+
+h2{
+  font-size: 50px;
+  color: blue;
+  font-family: cursive;
+}
+h2:hover{
+  background-color:  lightgreen
+}
+
+p{
+  font-size: 25px;
+  color: red;
+  font-family: cursive;
+}
+p:hover{
+  background-color:  lightblue
+}
+
+ul{
+  font-size: 20px;
+  color:green ;
+  font-family: cursive;
+}
+ul:hover{
+  background-color: orange
+}
+
+img{
+      width: 200px;
+      height: 200px;
+      border: 2px black solid;
+}
+img:hover{
+  background-color: pink
+}
