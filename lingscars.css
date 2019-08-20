@@ -1,3 +1,7 @@
+body{
+  background-color: pink
+}
+
 h1{
   font-size: 100px;
   color: purple;
@@ -36,10 +40,7 @@ ul:hover{
 }
 
 img{
-      width: 200px;
-      height: 200px;
-      border: 2px black solid;
-}
-img:hover{
-  background-color: pink
+      width: 300px;
+      height: 300px;
+      border: 4px black solid;
 }
